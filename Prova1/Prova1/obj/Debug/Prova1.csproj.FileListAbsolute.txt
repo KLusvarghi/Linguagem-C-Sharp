@@ -1,0 +1,7 @@
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\bin\Debug\Prova1.exe.config
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\bin\Debug\Prova1.exe
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\bin\Debug\Prova1.pdb
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\obj\Debug\Prova1.csproj.AssemblyReference.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\obj\Debug\Prova1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\obj\Debug\Prova1.exe
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 16 - 12.07 - Avaliação final\Prova1\Prova1\obj\Debug\Prova1.pdb

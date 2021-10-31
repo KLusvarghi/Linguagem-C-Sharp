@@ -1,0 +1,16 @@
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.exe
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.deps.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.runtimeconfig.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.runtimeconfig.dev.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\ref\Ex2 - AULA 2.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\bin\Debug\net5.0\Ex2 - AULA 2.pdb
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.csproj.AssemblyReference.cache
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.AssemblyInfoInputs.cache
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.AssemblyInfo.cs
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.csproj.CoreCompileInputs.cache
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\ref\Ex2 - AULA 2.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.pdb
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 2\Ex2 - AULA 2\obj\Debug\net5.0\Ex2 - AULA 2.genruntimeconfig.cache

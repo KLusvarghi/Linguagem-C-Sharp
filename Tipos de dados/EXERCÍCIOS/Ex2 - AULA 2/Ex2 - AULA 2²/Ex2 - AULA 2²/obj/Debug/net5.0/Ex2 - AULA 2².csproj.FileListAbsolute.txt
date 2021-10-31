@@ -1,0 +1,32 @@
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².csproj.AssemblyReference.cache
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².AssemblyInfoInputs.cache
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².AssemblyInfo.cs
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².csproj.CoreCompileInputs.cache
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².exe
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².deps.json
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².runtimeconfig.json
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².runtimeconfig.dev.json
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\ref\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².pdb
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\ref\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².pdb
+C:\Users\Cesar-NB02\source\repos\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².genruntimeconfig.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².exe
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².deps.json
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².runtimeconfig.json
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².runtimeconfig.dev.json
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\ref\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\bin\Debug\net5.0\Ex2 - AULA 2².pdb
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².csproj.AssemblyReference.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².AssemblyInfoInputs.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².AssemblyInfo.cs
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².csproj.CoreCompileInputs.cache
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\ref\Ex2 - AULA 2².dll
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².pdb
+C:\Users\Cesar-NB02\Desktop\1º SEM FATEC -KAUÃ-\PROGRAMAÇÃO EM MICROINFORMÁTICA\AULAS\AULA 2 - 15.06 - TER\EXERCÍCIOS\Ex2 - AULA 2²\Ex2 - AULA 2²\obj\Debug\net5.0\Ex2 - AULA 2².genruntimeconfig.cache

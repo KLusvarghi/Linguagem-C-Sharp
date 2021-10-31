@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex2 - AULA 2/1.0.0": {
+        "runtime": {
+          "Ex2 - AULA 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2 - AULA 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

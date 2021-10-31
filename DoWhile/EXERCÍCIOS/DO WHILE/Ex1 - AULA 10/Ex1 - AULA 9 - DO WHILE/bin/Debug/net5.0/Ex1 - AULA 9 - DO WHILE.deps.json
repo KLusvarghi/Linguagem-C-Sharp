@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex1 - AULA 9 - DO WHILE/1.0.0": {
+        "runtime": {
+          "Ex1 - AULA 9 - DO WHILE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex1 - AULA 9 - DO WHILE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

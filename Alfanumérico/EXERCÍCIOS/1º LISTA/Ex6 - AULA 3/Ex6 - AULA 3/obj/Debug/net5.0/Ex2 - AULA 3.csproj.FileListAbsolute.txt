@@ -1,0 +1,15 @@
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.exe
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.deps.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.runtimeconfig.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.runtimeconfig.dev.json
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\ref\Ex2 - AULA 3.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\bin\Debug\net5.0\Ex2 - AULA 3.pdb
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.AssemblyInfoInputs.cache
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.AssemblyInfo.cs
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.csproj.CoreCompileInputs.cache
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\ref\Ex2 - AULA 3.dll
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.pdb
+C:\Users\Cesar-NB02\Desktop\PM vs\aula 2\aula 2\EXERCÍCIOS 1 ao 4\Ex2 - AULA 3\Ex2 - AULA 3\obj\Debug\net5.0\Ex2 - AULA 3.genruntimeconfig.cache
